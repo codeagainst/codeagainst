@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**codeagainst/codeagainst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Junior Full-Stack Developer looking for jobs opportunities.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Learning Next.js [Next.js documentation](https://nextjs.org/docs)
+- 💅 Coding a Jamstack Ecommerce [JamStack Ecommerce](https://github.com/codeagainst/ecommjamstack)
+- 🔨 Crafting  a [pantry pullout](https://imgur.com/Hdrs97V) side fridge.
+- 📺 Watching [Brooklyn Nine-Nine](https://www.imdb.com/title/tt2467372/)
+
+##### BIO
+
+- 🏢 I'm currently working as a **Freelancer**
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.php`, `.json`, `.svg`
+- 🌍 I'm mostly active within the **DevsChile Community**
+- 🌱 Learning all about **JamStack**
+- 💬 Ping me about **react**, **javascript**, **development**, **design thinking**, **carpentry**
+- 📫 Reach me: [twitter.com/codeagainst](https://twitter.com/codeagainst)
+- ⚡️ Fun fact: I'm saving for having a 🦙 (Llama!)
