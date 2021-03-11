@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Junior Full-Stack Developer looking for jobs opportunities.
+#### I'm a Frontend Developer looking for jobs opportunities.
 
 ##### NOW
 
