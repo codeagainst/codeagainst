@@ -5,9 +5,9 @@
 ##### NOW
 
 - 📚 Learning Next.js [Next.js documentation](https://nextjs.org/docs)
-- 💅 Coding a Jamstack Ecommerce [JamStack Ecommerce](https://github.com/codeagainst/ecommjamstack)
-- 🔨 Crafting  a [pantry pullout](https://imgur.com/Hdrs97V) side fridge.
-- 📺 Watching [Brooklyn Nine-Nine](https://www.imdb.com/title/tt2467372/)
+- 💅 Making Frontend Path on [DevChallenges](https://https://devchallenges.io/)
+- 🔨 Crafting  a [Pantry Sliding ](https://imgur.com/a/dN4TrIy) Shelves.
+- 📺 Watching (again) [Vikings](https://www.imdb.com/title/tt2306299/)
 
 ##### BIO
 
