@@ -15,6 +15,6 @@
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.php`, `.json`, `.svg`
 - 🌍 I'm mostly active within the **DevsChile Community**
 - 🌱 Learning all about **JamStack**
-- 💬 Ping me about **react**, **javascript**, **development**, **design thinking**, **carpentry**
+- 💬 Ping me about **react**, **javascript**, **development**, **minimalism**, **carpentry**
 - 📫 Reach me: [twitter.com/codeagainst](https://twitter.com/codeagainst)
 - ⚡️ Fun fact: I'm saving for having a 🦙 (Llama!)
